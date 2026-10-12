@@ -14,10 +14,10 @@ tags: [ai-workflow, software-workflow, context]
 
 不是工具教學，也不是管理口號，而是紀錄一些在實際專案裡反覆遇到的問題：
 
-需求怎麼定義？
-決策怎麼留下？
-review 怎麼回到原本的目標？
-測試結果怎麼變成下一次工作的上下文？
+需求怎麼定義？  
+決策怎麼留下？  
+review 怎麼回到原本的目標？  
+測試結果怎麼變成下一次工作的上下文？  
 知識怎麼從一次任務，變成團隊可以重複使用的經驗？
 
 AI 出現後，這些問題沒有消失。
@@ -32,9 +32,9 @@ AI 出現後，這些問題沒有消失。
 
 某個步驟變快了，但整個流程的上下文還是斷的。
 
-Jira 裡有需求，但 GitHub 裡的實作不一定看得出當初為什麼這樣設計。
-PR 裡有 review comment，但不一定會回到原本的 ticket 或規格。
-測試過了或沒過，常常只存在某個 comment、log，或人的記憶裡。
+Jira 裡有需求，但 GitHub 裡的實作不一定看得出當初為什麼這樣設計。  
+PR 裡有 review comment，但不一定會回到原本的 ticket 或規格。  
+測試過了或沒過，常常只存在某個 comment、log，或人的記憶裡。  
 做完一輪之後，下次遇到類似問題，團隊還是可能重新踩一次。
 
 所以我現在更在意的是：
@@ -55,8 +55,8 @@ Planning 階段，目標、範圍、測試案例和風險會先寫在 Jira issue
 
 因此 Jira comment 不需要重複 PR 裡的內容，而是補上階段性摘要：目前做到哪裡、驗證結果如何、是否有風險或後續處理。
 
-測試沒過時，記錄 bug、原因和下一步。
-測試通過時，記錄驗證結果。
+測試沒過時，記錄 bug、原因和下一步。  
+測試通過時，記錄驗證結果。  
 收尾時，留下決策和後續要沉澱的經驗。
 
 這樣 Jira 就不是一份大文件，而是一張票完整生命週期的時間線。
@@ -69,10 +69,10 @@ GitHub 也不是只有放 code。
 
 AI 放在中間，最有價值的地方不是取代人做決策，而是幫忙把這些分散在不同工具裡的訊號整理起來。
 
-從 Jira issue 讀出需求和驗收標準。
-從 GitHub PR 對照實作是否符合原本目標。
-從 review 和測試結果整理風險。
-從完成後的 retrospective 抽出下次要遵守的原則。
+從 Jira issue 讀出需求和驗收標準。  
+從 GitHub PR 對照實作是否符合原本目標。  
+從 review 和測試結果整理風險。  
+從完成後的 retrospective 抽出下次要遵守的原則。  
 最後再把值得保留的經驗沉澱到知識庫。
 
 這樣一來，每一次工作就不只是「完成一張票」。
@@ -83,9 +83,9 @@ AI 放在中間，最有價值的地方不是取代人做決策，而是幫忙�
 
 更重要的是讓流程變得可追蹤、可驗證、可回饋。
 
-需求不是寫完就消失。
-實作不是 merge 就結束。
-review 不是看過就算了。
+需求不是寫完就消失。  
+實作不是 merge 就結束。  
+review 不是看過就算了。  
 測試不是 pass 就沒有後續。
 
 每一輪工作，都應該留下可以被下一輪使用的 context。
@@ -96,8 +96,8 @@ AI 真正改變的，不只是工作速度，而是團隊的經驗及知識累�
 
 當 Jira、GitHub、測試和知識庫能串成一個回饋循環，AI 才不只是另一個工具，而是開始成為工作系統的一部分。
 
-In short:
-AI workflow is not about producing more output.
+In short:  
+AI workflow is not about producing more output.  
 It is about turning every delivery into better context for the next one.
 
 P.S. Pair-writing with Codex. 用 AI workflow 寫 AI workflow.
