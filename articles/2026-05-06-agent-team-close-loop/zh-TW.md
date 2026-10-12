@@ -8,8 +8,6 @@ tags: [ai-workflow, agent-team, close-loop, validation, observability, retrospec
 
 # 我怎麼用 Agent Team 建立 close-loop 開發流程
 
-![我怎麼用 Agent Team 建立 close-loop 開發流程](images/2026-05-06-agent-team-close-loop.webp)
-
 延續上一篇談到的：
 
 複雜任務比較適合採用 Agent Team workflow。
@@ -171,3 +169,7 @@ AI workflow 的價值，不只是當下完成了什麼，而是有沒有留下�
 如果沒有 close loop，多 agent 只是把不確定性平行放大。
 
 但如果 close loop 設計得夠清楚，Agent Team 就能把 AI-assisted development 從一次性產出，變成可以持續改善的工程流程。
+
+## 資訊圖
+
+![資訊圖：我怎麼用 Agent Team 建立 close-loop 開發流程](images/2026-05-06-agent-team-close-loop.webp)

@@ -8,8 +8,6 @@ tags: [ai-workflow, workflow-selection, vertical-slice, agent-team, claude-code]
 
 # AI 時代，工作流程要跟任務型態匹配
 
-![AI 時代，工作流程要跟任務型態匹配](images/2026-05-03-workflow-task-fit.webp)
-
 繼上一篇談到的工作流程重要性，這篇延伸分享個人實務的 AI workflow 經驗。
 
 因為工作流程不是越完整越好，而是要跟任務型態匹配。
@@ -105,3 +103,7 @@ Good AI workflow is not one-size-fits-all.
 It is about matching the workflow to the shape of the work.
 
 P.S. Pair-writing with Codex. 繼續用 AI workflow 寫 AI workflow.
+
+## 資訊圖
+
+![資訊圖：AI 時代，工作流程要跟任務型態匹配](images/2026-05-03-workflow-task-fit.webp)

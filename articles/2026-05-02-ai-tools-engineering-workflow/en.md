@@ -8,8 +8,6 @@ tags: [ai-workflow, engineering-workflow, architecture]
 
 # The Stronger AI Tools Become, the More Engineering Workflow Matters
 
-![The Stronger AI Tools Become, the More Engineering Workflow Matters](images/2026-05-23-en-ai-tools-engineering-workflow.webp)
-
 AI makes output faster.
 
 But it also makes every unclear part of the process fail faster.
@@ -86,6 +84,10 @@ AI makes output faster.
 Good engineering workflows make that output reliable and maintainable.
 
 P.S. Pair-written with Codex. Continuing to use an AI workflow to write about AI workflows.
+
+## Infographic
+
+![Infographic: The Stronger AI Tools Become, the More Engineering Workflow Matters](images/2026-05-23-en-ai-tools-engineering-workflow.webp)
 
 ## References
 

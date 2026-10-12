@@ -8,8 +8,6 @@ tags: [ai-workflow, software-workflow, context]
 
 # AI 真正改變的不是自動化，而是工作流程留下的上下文
 
-![AI 真正改變的不是自動化，而是工作流程留下的上下文](images/2026-05-01-ai-workflow-context.webp)
-
 我最近開始想把一些軟體工作流程和管理方法整理成系列筆記。
 
 不是工具教學，也不是管理口號，而是紀錄一些在實際專案裡反覆遇到的問題：
@@ -101,3 +99,7 @@ AI workflow is not about producing more output.
 It is about turning every delivery into better context for the next one.
 
 P.S. Pair-writing with Codex. 用 AI workflow 寫 AI workflow.
+
+## 資訊圖
+
+![資訊圖：AI 真正改變的不是自動化，而是工作流程留下的上下文](images/2026-05-01-ai-workflow-context.webp)
