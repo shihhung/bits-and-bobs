@@ -19,3 +19,15 @@ Odds and ends: tools, articles, proofs of concept, and a few AI tools and skills
 | --- | --- | --- |
 | [handoff](ai/skills/handoff/) | Skill | Review work in progress and write a clean handoff for the next conversation |
 | [work-report](ai/skills/work-report/) | Skill | Build and maintain a layered, illustrated, offline-readable work report |
+| [jira-acli](ai/skills/jira-acli/) | Skill | Operate Jira through Atlassian's CLI (acli) instead of MCP, with a markdown to ADF converter |
+
+## How the skills fit together
+
+`handoff` closes a phase of work. It asks for a record in the project's official history (for example Jira) and an illustrated report. The other two skills supply those pieces:
+
+```
+handoff  ->  work-report   (illustrated status report)
+         ->  jira-acli     (read and update the official Jira record)
+```
+
+Each skill works on its own, but they were written to be used together.
