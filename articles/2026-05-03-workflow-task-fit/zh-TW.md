@@ -24,20 +24,20 @@ tags: [ai-workflow, workflow-selection, vertical-slice, agent-team, claude-code]
 
 以登入為例，它看起來是一個功能，但實際上可能牽涉：
 
-後端 API
-iOS 登入畫面
-Android 登入畫面
-Web 或 Admin 的登入流程
-錯誤處理
-token / session 管理
-測試案例
+後端 API  
+iOS 登入畫面  
+Android 登入畫面  
+Web 或 Admin 的登入流程  
+錯誤處理  
+token / session 管理  
+測試案例  
 跨平台 UI 和行為一致性
 
 這類任務如果各平台各做各的，很容易出現落差。
 
-API contract 可能理解不一致。
-錯誤處理可能各自發展。
-UI 行為可能不一致。
+API contract 可能理解不一致。  
+錯誤處理可能各自發展。  
+UI 行為可能不一致。  
 測試案例可能沒有對齊。
 
 這時候比較完整的工作流程，例如 Agent Team，價值就不是「多開幾個 AI 平行工作」。
@@ -100,8 +100,8 @@ AI-assisted workflow 的成熟度，不是看流程多完整，也不是看 agen
 
 而是看流程、角色、上下文和驗證方式，能不能跟任務本身的複雜度匹配。
 
-In short:
-Good AI workflow is not one-size-fits-all.
+In short:  
+Good AI workflow is not one-size-fits-all.  
 It is about matching the workflow to the shape of the work.
 
 P.S. Pair-writing with Codex. 繼續用 AI workflow 寫 AI workflow.
