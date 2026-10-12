@@ -8,8 +8,6 @@ tags: [ai-workflow, engineering-workflow, architecture, codex, claude, gemini]
 
 # AI 工具越強，工程流程反而越重要
 
-![AI 工具越強，工程流程反而越重要](images/2026-05-02-ai-tools-engineering-workflow.webp)
-
 前一篇我寫到，AI 真正改變的不是自動化，而是工作流程能不能留下上下文。
 
 這幾天我又看到 OpenAI 一篇關於 Harness Engineering 的文章，裡面有一個方向我很有感：
@@ -113,6 +111,10 @@ AI makes output faster.
 Good engineering workflows make that output reliable and maintainable.
 
 P.S. Pair-writing with Codex. 繼續用 AI workflow 寫 AI workflow.
+
+## 資訊圖
+
+![資訊圖：AI 工具越強，工程流程反而越重要](images/2026-05-02-ai-tools-engineering-workflow.webp)
 
 ## 參考資料
 
