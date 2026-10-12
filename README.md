@@ -17,4 +17,4 @@ Odds and ends: tools, articles, proofs of concept, and a few AI tools and skills
 
 | Name | Type | Description |
 | --- | --- | --- |
-| (none yet) | | |
+| [handoff](ai/skills/handoff/) | Skill | Review work in progress and write a clean handoff for the next conversation |
