@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Work report template: show current status, evidence, and next steps with little text." />
+    <title>Work report | Template</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body class="bg-stone-50 text-slate-900 antialiased">
+    <a class="absolute left-4 top-[-5rem] z-50 rounded bg-slate-950 px-4 py-3 text-base font-bold text-white focus:top-4" href="#main">Skip to main content</a>
+
+    <header class="border-b border-slate-200 bg-stone-50/95 backdrop-blur">
+      <div class="mx-auto flex max-w-7xl items-center justify-between gap-5 px-5 py-4 md:px-8">
+        <a class="flex items-center gap-3 text-base font-black tracking-wide no-underline" href="#top"><span class="grid size-9 place-items-center rounded-full bg-indigo-700 font-serif text-lg text-white">W</span><span>Work report <span class="mt-0.5 block font-mono text-xs font-medium tracking-widest text-slate-500">Template · YYYY.MM.DD</span></span></a>
+        <nav class="flex items-center gap-6 text-sm font-bold md:text-base" aria-label="Page navigation"><a class="hover:text-indigo-700" href="#proof">Key evidence</a><a class="hover:text-indigo-700" href="#next">Next steps</a></nav>
+      </div>
+    </header>
+
+    <main id="main">
+      <section class="relative overflow-hidden border-b border-slate-200" id="top">
+        <div class="absolute inset-y-0 right-0 w-2/5 bg-indigo-50"></div>
+        <div class="relative mx-auto grid max-w-7xl items-center gap-10 px-5 py-16 md:px-8 lg:grid-cols-[.9fr_1.1fr] lg:py-24">
+          <div>
+            <p class="mb-5 flex items-center gap-2 font-mono text-sm font-bold tracking-widest text-indigo-700"><span class="size-2.5 rounded-full bg-amber-400"></span>Example · In progress</p>
+            <h1 class="max-w-2xl font-serif text-5xl font-black leading-tight tracking-tight text-slate-950 md:text-6xl">Keep what we know now<br /><span class="text-indigo-700">inside what can be verified.</span></h1>
+            <p class="mt-7 max-w-xl text-lg leading-9 text-slate-600 md:text-xl">Sample text: use one visible result or problem so the reader first sees which stage the work is in, then decides whether to expand the details.</p>
+            <div class="mt-8 flex flex-wrap items-center gap-x-3 gap-y-2 text-base"><span class="size-3 rounded-full bg-amber-400 ring-4 ring-amber-100"></span><strong>Sample status: partly confirmed</strong><span class="text-slate-500">The rest is still to be verified</span></div>
+            <a class="mt-9 inline-flex border-b-2 border-indigo-700 pb-1 text-base font-black text-indigo-700 hover:text-indigo-950" href="#proof">See the sample evidence <span class="ml-2 text-xl">↓</span></a>
+          </div>
+
+          <figure class="relative mx-auto w-full max-w-2xl lg:justify-self-end">
+            <div class="absolute -left-4 top-5 h-[89%] w-[95%] rotate-[-3deg] border border-slate-300 bg-amber-100"></div>
+            <div class="relative border border-slate-900 bg-white p-5 shadow-[18px_20px_0_#c7d2fe]">
+              <svg class="h-80 w-full md:h-96" viewBox="0 0 640 390" role="img" aria-label="Sample flow diagram: input, check, and a result still to be verified">
+                <rect width="640" height="390" fill="#fffefa" />
+                <path d="M100 112H520M100 202H520M100 292H520" stroke="#d7dce3" stroke-width="2" />
+                <rect x="77" y="76" width="162" height="70" rx="8" fill="#e0e7ff" stroke="#3730a3" stroke-width="3" />
+                <text x="158" y="107" text-anchor="middle" font-size="18" font-family="ui-monospace, Menlo, monospace" fill="#172033">Input</text><text x="158" y="130" text-anchor="middle" font-size="14" font-family="ui-monospace, Menlo, monospace" fill="#475569">Sample data</text>
+                <path d="M260 111H372" stroke="#3730a3" stroke-width="4" /><path d="M358 101L378 111 358 121" fill="none" stroke="#3730a3" stroke-width="4" />
+                <rect x="395" y="76" width="162" height="70" rx="8" fill="#ecfdf5" stroke="#047857" stroke-width="3" />
+                <text x="476" y="107" text-anchor="middle" font-size="18" font-family="ui-monospace, Menlo, monospace" fill="#172033">Confirmed</text><text x="476" y="130" text-anchor="middle" font-size="14" font-family="ui-monospace, Menlo, monospace" fill="#475569">Example result</text>
+                <rect x="77" y="167" width="480" height="70" rx="8" fill="#f8fafc" stroke="#94a3b8" stroke-width="2" />
+                <text x="104" y="199" font-size="17" font-family="ui-monospace, Menlo, monospace" fill="#172033">Evidence kept:</text><text x="238" y="199" font-size="15" font-family="ui-monospace, Menlo, monospace" fill="#475569">Original content → reproducible check result</text>
+                <rect x="77" y="257" width="480" height="70" rx="8" fill="#fff7ed" stroke="#ea580c" stroke-width="3" stroke-dasharray="8 6" />
+                <text x="104" y="290" font-size="17" font-family="ui-monospace, Menlo, monospace" fill="#9a3412">Not yet verified:</text><text x="230" y="290" font-size="15" font-family="ui-monospace, Menlo, monospace" fill="#9a3412">The next hypothesis or scope in the sample</text>
+              </svg>
+            </div>
+            <figcaption class="mt-4 flex flex-wrap justify-between gap-3 text-base"><b class="font-mono text-indigo-700">Sample figure</b><span class="text-slate-600">Explain how the work fits together with a picture first</span></figcaption>
+            <span class="absolute -left-3 top-24 max-w-48 border border-slate-900 bg-amber-300 px-3 py-2 text-sm font-bold shadow-[3px_3px_0_#172033] md:text-base">Confirmed part</span>
+            <span class="absolute -right-2 bottom-16 max-w-48 border border-slate-900 bg-rose-100 px-3 py-2 text-sm font-bold shadow-[3px_3px_0_#172033] md:text-base">Still to verify</span>
+          </figure>
+        </div>
+      </section>
+
+      <section class="border-b border-slate-200 bg-white" aria-label="Example summary">
+        <div class="mx-auto grid max-w-7xl divide-y divide-slate-200 px-5 md:grid-cols-4 md:divide-x md:divide-y-0 md:px-8">
+          <div class="py-6 md:px-6"><strong class="block font-serif text-4xl text-indigo-700">1</strong><span class="mt-2 block text-base font-bold">Sample work done</span></div>
+          <div class="py-6 md:px-6"><strong class="block font-serif text-4xl text-emerald-700">1</strong><span class="mt-2 block text-base font-bold">Sample findings confirmed</span></div>
+          <div class="py-6 md:px-6"><strong class="block font-serif text-4xl text-amber-600">1</strong><span class="mt-2 block text-base font-bold">Sample questions to verify</span></div>
+          <p class="py-6 text-base leading-7 text-slate-600 md:px-6"><b class="text-slate-900">Sample reminder:</b>Finished items do not automatically mean the overall goal is done.</p>
+        </div>
+      </section>
+
+      <section class="mx-auto grid max-w-7xl gap-9 px-5 py-16 md:px-8 lg:grid-cols-[11rem_1fr_.75fr] lg:py-24">
+        <p class="font-mono text-sm font-bold tracking-widest text-indigo-700"><span class="mr-2 inline-grid size-7 place-items-center rounded-full bg-indigo-700 text-xs text-white">01</span>Work status</p>
+        <div><h2 class="font-serif text-3xl font-black leading-tight tracking-tight md:text-4xl">Answer “where are we now” with progress.</h2><p class="mt-5 max-w-2xl text-lg leading-9 text-slate-600">Sample text: write done, being confirmed, and not started separately. Avoid reading technical checks, exploration findings, or partial results as final conclusions.</p></div>
+        <ol class="border-t-2 border-slate-900 text-base"><li class="flex justify-between border-b border-slate-200 py-4"><b><i class="mr-2 inline-block size-2.5 rounded-full bg-emerald-600"></i>Prepare</b><span class="font-mono text-sm text-slate-500">Sample done</span></li><li class="flex justify-between border-b border-slate-200 py-4"><b><i class="mr-2 inline-block size-2.5 rounded-full bg-emerald-600"></i>Check</b><span class="font-mono text-sm text-slate-500">Sample confirmed</span></li><li class="flex justify-between border-b border-slate-200 py-4"><b><i class="mr-2 inline-block size-2.5 rounded-full bg-amber-400 ring-4 ring-amber-100"></i>Verify</b><span class="font-mono text-sm text-indigo-700">Sample in progress</span></li><li class="flex justify-between border-b border-slate-200 py-4"><b><i class="mr-2 inline-block size-2.5 rounded-full bg-slate-300"></i>Widen scope</b><span class="font-mono text-sm text-slate-500">Sample not started</span></li></ol>
+      </section>
+
+      <section class="bg-indigo-50 py-16 md:py-24" id="proof">
+        <div class="mx-auto max-w-7xl px-5 md:px-8">
+          <div class="grid gap-5 md:grid-cols-[11rem_1fr]"><p class="font-mono text-sm font-bold tracking-widest text-indigo-700"><span class="mr-2 inline-grid size-7 place-items-center rounded-full bg-indigo-700 text-xs text-white">02</span>Key evidence</p><div><h2 class="font-serif text-3xl font-black tracking-tight md:text-4xl">One picture, one checkable conclusion.</h2><p class="mt-4 max-w-2xl text-lg leading-9 text-slate-600">Everything below is sample content. When replacing it, keep the visible source evidence on the left and write only what that evidence truly supports on the right.</p></div></div>
+          <article class="mt-12 border border-slate-900 bg-white p-5 shadow-[8px_8px_0_#172033] md:p-7">
+            <header class="flex flex-wrap items-center justify-between gap-3 border-b border-slate-900 pb-4"><span class="font-mono text-base font-bold tracking-widest text-indigo-700">Sample / 01</span><span class="bg-amber-100 px-3 py-1.5 text-sm font-black text-amber-900">Partly confirmed</span></header>
+            <div class="grid items-center gap-6 py-7 lg:grid-cols-[1.05fr_7rem_.95fr]">
+              <div class="border border-slate-300 bg-stone-100 p-5"><svg class="h-64 w-full" viewBox="0 0 460 250" role="img" aria-label="Sample source figure: two separate blocks and a note in between"><rect width="460" height="250" fill="#fff"/><rect x="70" y="30" width="320" height="65" fill="#e0e7ff" stroke="#3730a3" stroke-width="3"/><rect x="70" y="155" width="320" height="65" fill="#e0e7ff" stroke="#3730a3" stroke-width="3"/><path d="M90 55H370M90 77H290M90 180H370M90 202H310" stroke="#64748b" stroke-width="4"/><text x="230" y="132" text-anchor="middle" font-size="17" font-family="ui-monospace, Menlo, monospace" fill="#475569">Note in between (sample)</text></svg><p class="pt-3 text-base leading-7 text-slate-600">Source sample: two separate blocks with content in between that must be kept.</p></div>
+              <div class="grid justify-items-center gap-2 text-center text-indigo-700"><span class="text-5xl font-black leading-none lg:text-6xl">→</span><span class="text-sm leading-5 text-slate-500">Check<br />result</span></div>
+              <div class="border border-slate-900 bg-stone-50 p-5"><p class="font-mono text-sm tracking-widest text-slate-500">Sample result</p><div class="mt-5 flex items-center gap-3 border border-indigo-700 p-3 text-base font-bold text-indigo-700"><span class="size-7 border border-indigo-700"></span>Block A kept</div><p class="py-4 text-center text-base text-slate-600">The note in between stays outside the blocks</p><div class="flex items-center gap-3 border border-indigo-700 p-3 text-base font-bold text-indigo-700"><span class="size-7 border border-indigo-700"></span>Block B kept</div><div class="mt-5 flex gap-3 border border-amber-500 bg-amber-50 p-4 text-base leading-6 text-amber-900"><b class="grid size-6 shrink-0 place-items-center rounded-full bg-amber-500 text-white">?</b><span>One condition is still to be verified<br /><span>Sample: no claim yet that everything passes</span></span></div></div>
+            </div>
+            <p class="border-l-4 border-indigo-700 bg-indigo-50 px-4 py-4 text-lg leading-8"><b class="text-indigo-700">Sample can say:</b>This relationship is confirmed.<b class="text-indigo-700">Sample cannot say:</b>All related scenarios pass.</p>
+            <details class="mt-5 border-t border-slate-200"><summary class="cursor-pointer py-4 text-base font-black text-indigo-700">Expand verification and limits of the sample</summary><p class="max-w-4xl pb-2 text-base leading-8 text-slate-600">Put sources, settings, check methods, exceptions, and limits here. Readers expand it only when they need detail; do not put the whole work record on the front page.</p></details>
+          </article>
+        </div>
+      </section>
+
+      <section class="mx-auto grid max-w-7xl gap-9 px-5 py-16 md:px-8 lg:grid-cols-[.8fr_1.2fr] lg:py-24" id="next">
+        <div><p class="font-mono text-sm font-bold tracking-widest text-indigo-700"><span class="mr-2 inline-grid size-7 place-items-center rounded-full bg-indigo-700 text-xs text-white">03</span>Next steps</p><h2 class="mt-5 font-serif text-3xl font-black leading-tight tracking-tight md:text-4xl">Do one verifiable thing next.</h2></div>
+        <div class="border-t-2 border-slate-900"><div class="grid grid-cols-[6rem_1fr] gap-4 border-b border-slate-200 py-5 text-lg leading-8"><b class="font-mono text-sm text-indigo-700">Fixed</b><p>Sample: keep the confirmed inputs, settings, and evaluation criteria.</p></div><div class="-mx-4 grid grid-cols-[6rem_1fr] gap-4 border-b border-slate-200 bg-indigo-50 px-4 py-5 text-lg leading-8"><b class="font-mono text-sm text-indigo-700">Change</b><p>Sample: change only one variable at a time, with a reason.</p></div><div class="grid grid-cols-[6rem_1fr] gap-4 border-b border-slate-200 py-5 text-lg leading-8"><b class="font-mono text-sm text-rose-600">Unverified</b><p class="text-slate-600">Sample: until results are in, do not widen scope or conclude early.</p></div></div>
+      </section>
+    </main>
+    <footer class="bg-slate-950 px-5 py-6 font-mono text-sm tracking-wide text-slate-300 md:px-8"><div class="mx-auto max-w-7xl">Work report template · Replace all sample text with real evidence</div></footer>
+  </body>
+</html>
