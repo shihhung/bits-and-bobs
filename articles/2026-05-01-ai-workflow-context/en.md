@@ -8,8 +8,6 @@ tags: [ai-workflow, software-workflow, context]
 
 # AI Workflows Are Not About Automation. They Are About Context.
 
-![AI Workflows Are Not About Automation. They Are About Context.](images/2026-05-15-en-ai-workflows-context.webp)
-
 When I first started bringing AI into my software workflow, I thought mostly about automation.
 
 Can AI help me write Jira tickets?  
@@ -81,6 +79,10 @@ AI workflow is not about producing more output.
 It is about turning every delivery into better context for the next one.
 
 P.S. Pair-written with Codex. Using an AI workflow to write about AI workflows.
+
+## Infographic
+
+![Infographic: AI Workflows Are Not About Automation. They Are About Context.](images/2026-05-15-en-ai-workflows-context.webp)
 
 ## Adapted From
 
