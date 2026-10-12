@@ -87,6 +87,10 @@ Good engineering workflows make that output reliable and maintainable.
 
 P.S. Pair-written with Codex. Continuing to use an AI workflow to write about AI workflows.
 
+## References
+
+- OpenAI, [Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/) (2026-02-11)
+
 ## Adapted From
 
 - [Traditional Chinese original](zh-TW.md)

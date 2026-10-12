@@ -113,3 +113,7 @@ AI makes output faster.
 Good engineering workflows make that output reliable and maintainable.
 
 P.S. Pair-writing with Codex. 繼續用 AI workflow 寫 AI workflow.
+
+## 參考資料
+
+- OpenAI, [Harness 工程：在智慧體優先的世界中善用 Codex](https://openai.com/zh-Hant/index/harness-engineering/)（2026-02-11）
