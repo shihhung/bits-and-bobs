@@ -111,6 +111,10 @@ It is about matching the workflow to the shape of the work.
 
 P.S. Pair-written with Codex. Continuing to use an AI workflow to write about AI workflows.
 
+## Infographic
+
+![Infographic: Match the Workflow to the Task: Not Every AI Job Needs an Agent Team](images/2026-05-03-en-workflow-task-fit.webp)
+
 ## Adapted From
 
 - [Traditional Chinese original](zh-TW.md)
