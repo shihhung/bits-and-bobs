@@ -169,6 +169,10 @@ Without a close loop, multiple agents just multiply the uncertainty in parallel.
 
 But with a clearly designed close loop, an Agent Team can turn AI-assisted development from one-off output into an engineering process that keeps improving.
 
+## Infographic
+
+![Infographic: How I Use an Agent Team to Build a Close-Loop Development Process](images/2026-05-06-en-agent-team-close-loop.webp)
+
 ## Adapted From
 
 - [Traditional Chinese original](zh-TW.md)
