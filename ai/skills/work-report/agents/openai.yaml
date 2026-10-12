@@ -1,4 +1,0 @@
-interface:
-  display_name: "Illustrated work report"
-  short_description: "Maintain an offline-readable work web page with big pictures, layered detail, and next-step suggestions, across projects"
-  default_prompt: "Use $work-report to update the illustrated status report for the current work, showing results, evidence, and next steps."
