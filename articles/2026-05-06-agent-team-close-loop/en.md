@@ -1,10 +1,3 @@
----
-title: "How I Use an Agent Team to Build a Close-Loop Development Process"
-language: en
-linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7515618682912444417/
-tags: [ai-workflow, agent-team, close-loop, validation, observability, retrospective]
----
-
 # How I Use an Agent Team to Build a Close-Loop Development Process
 
 When people talk about an Agent Team, the first idea is often:
@@ -100,3 +93,5 @@ With a clear close loop, an Agent Team turns AI-assisted development from one-of
 ## Adapted From
 
 - [Traditional Chinese original](zh-TW.md)
+
+Originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7515618682912444417/).

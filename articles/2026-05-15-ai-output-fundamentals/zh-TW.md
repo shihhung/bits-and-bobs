@@ -1,11 +1,3 @@
----
-title: "AI 產出越快，基本功越重要"
-published: 2026-05-15
-language: zh-TW
-linkedin: https://www.linkedin.com/feed/update/urn:li:share:7461002743391113216/
-tags: [ai-workflow, fundamentals, judgment, taste]
----
-
 # AI 產出越快，基本功越重要
 
 當 AI workflow 大幅提升產出速度後，人類在這樣的流程中該扮演什麼角色？
@@ -155,3 +147,5 @@ But fundamentals decide whether that output is actually good.
 ## 參考資料
 
 - Matt Pocock, "Software Fundamentals Matter More Than Ever" — https://youtu.be/v4F1gFy-hqg
+
+原文發表於 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7461002743391113216/)。
