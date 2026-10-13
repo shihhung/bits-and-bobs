@@ -1,7 +1,7 @@
 ---
 title: "How Product Development Meets an AI Workflow: Teams and Agents That Keep Growing"
 language: en
-status: unpublished
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7515621144805171201/
 tags: [ai-workflow, agile, product-development, retrospective, context]
 ---
 
