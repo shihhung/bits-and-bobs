@@ -147,6 +147,10 @@ In short:
 AI makes output faster.  
 But fundamentals decide whether that output is actually good.
 
+## Infographic
+
+![Infographic: The Faster AI Produces, the More Fundamentals Matter](images/2026-05-15-en-ai-output-fundamentals.webp)
+
 ## References
 
 - Matt Pocock, "Software Fundamentals Matter More Than Ever" — https://youtu.be/v4F1gFy-hqg
