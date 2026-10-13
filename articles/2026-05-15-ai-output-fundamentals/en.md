@@ -7,140 +7,63 @@ tags: [ai-workflow, fundamentals, judgment, taste]
 
 # The Faster AI Produces, the More Fundamentals Matter
 
-When an AI workflow speeds up output this much, what role should humans play in it?
+When AI makes output much faster, what is left for humans to do?
 
-A lot of the conversation focuses on one question:
+Most discussions start with what AI can produce:
 
-What can AI do for us?
+Requirements. Code. Designs. Copy.
 
-For example:
+Those are useful. But they lead to a more important question:
 
-PMs can use AI to organize requirements, draft PRDs, and list user stories.  
-Engineers can use AI to write code, add tests, and do code review.  
-Designers can use AI to generate screens and explore styles.  
-Marketers can use AI to write copy, organize assets, and produce variations.
+How do we know whether any of it is good?
 
-But if we stop at "what can AI quickly produce for us," it is easy to miss a more important question:
+AI can draft a PRD, but a PM still has to judge whether it addresses the real need and keeps the scope reasonable.
 
-**How do humans judge whether what AI produced is actually good?**
+AI can write code, but an engineer still has to judge whether the solution belongs in the right layer and will be maintainable.
 
-AI can write a requirements doc for a PM.
+AI can generate screens, but a designer still has to judge whether the information hierarchy and flow actually work.
 
-But does the requirement really reflect the motivation behind it?  
-Does it make sense to do this now?  
-Is the scope too big?  
-Are the acceptance criteria clear?
+AI can write copy, but a marketer still has to judge whether it reaches the audience and fits the brand.
 
-AI cannot be accountable for those on its own.
+AI is fast at producing output.
 
-AI can write code for an engineer.
+It is just as fast at producing bad output.
 
-But is the solution over-engineered?  
-Is the business logic in the right layer?  
-Will this solution make future maintenance harder?  
-Do the test cases really cover the risks?
+Before AI, a lack of expertise might mean working slowly or needing more help. Now it can mean producing much more work without being able to tell whether that work is right.
 
-Those are still the engineer's calls.
+If all we do is type a request and paste the result, we become the typist in the AI workflow.
 
-AI can generate screens for a designer.
+I recently watched Matt Pocock’s talk, “Software Fundamentals Matter More Than Ever.”
 
-But is the information hierarchy clear?  
-Does the flow fit how people actually use it?  
-Does the screen only look good, but not work well?  
-Are the product's polish and consistency preserved?
+That idea fits what I see in AI workflows.
 
-That still takes a designer's expertise.
+Fundamentals matter more because they shape the quality of our questions. And the quality of our questions shapes the quality of AI output.
 
-AI can write copy for a marketer.
+Without engineering knowledge, it is hard to spot code that will create maintenance problems later. Without design knowledge, “looks fine” may be all we can say, even when the hierarchy or flow needs work.
 
-But does the copy reach the audience?  
-Is the brand voice consistent?  
-Is this just smooth, or actually persuasive?  
-What should be said, and what should not?
+This is also why people keep talking about taste.
 
-Speed alone does not solve these either.
+Taste is not mysticism.
 
-So:
+It is judgment built from fundamentals, experience, observation, and repeated correction. It lets us see what is good, and what merely looks complete while missing the point.
 
-**AI is fast at producing output, and just as fast at producing bad output.**
+In an AI workflow, humans still need to:
 
-That sounds blunt, but it is a real risk of AI workflows today.
+Define the problem.  
+Set the standard.  
+Judge trade-offs.  
+Design verification.  
+Own the final quality.
 
-Before, if someone lacked expertise, they worked slowly, could not finish, or needed more help.
+AI can be a strong executor. But we need to know where to go, what counts as a good result, and where we cannot compromise.
 
-Now, with AI, it changes into this:
+That is why prompt tricks matter less than the quality and depth of the conversation.
 
-They can produce a lot very quickly, but it may be a lot of work that is not good enough.
+Can we ask good questions? Judge the answers? Refine the output into something that actually works?
 
-They are using AI, but without enough expertise, it is hard for them to tell whether the results are right.
+AI makes the gap in expertise larger.
 
-If all they do is type in the requirement and paste back whatever AI gives them,
-
-then the person is just the typist in the AI workflow.
-
-Recently I watched a talk by Matt Pocock called "Software Fundamentals Matter More Than Ever."
-
-I think it matches where AI workflows are today.
-
-In the AI era, fundamentals do not matter less.
-
-It is the opposite.
-
-Fundamentals matter more.
-
-Because fundamentals decide the quality of your questions.
-
-And the quality of your questions decides the quality of what AI produces.
-
-If you do not understand the product, you cannot ask good questions about the requirement.
-
-If you do not understand engineering, you cannot see which parts of AI-written code will cost you in maintenance later.
-
-If you do not understand design, all you can say is "looks okay." You cannot say what needs to change in the information architecture, the visual hierarchy, or the interaction rhythm.
-
-If you do not understand marketing, you may only judge whether the copy reads smoothly, not whether it reaches the real audience.
-
-This is also why so many people talk about "taste" now.
-
-But taste is not mysticism.
-
-Taste is the judgment you build once fundamentals, experience, observation, and repeated correction add up.
-
-You can see what is good.
-
-And you can see what only looks complete but misses the point.
-
-In an AI workflow, humans do not step aside.
-
-They need to stand in a higher position and take responsibility for a few things:
-
-Defining the problem.  
-Setting the standard.  
-Judging the trade-offs.  
-Designing how to verify.  
-Owning the final quality.
-
-AI can be a very strong executor.
-
-But humans need to know where to go, what counts as a good result, and what cannot be compromised.
-
-So what really matters in the AI era is not prompt tricks. It is the quality and depth of the conversation.
-
-Put simply:
-
-Do you have enough expertise to ask good questions?  
-Do you have enough fundamentals to judge AI's answers?  
-Do you have enough experience to fix AI's output until it is actually usable?
-
-AI does not make expertise less important.
-
-It only widens the gap in expertise, again and again.
-
-Because when output gets cheap, what is scarce is no longer just "can you make it."
-
-It is:
-
-**Do you know what good looks like?**
+When output becomes cheap, the scarce skill is knowing what good looks like.
 
 In short:
 
