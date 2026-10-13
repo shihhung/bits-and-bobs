@@ -1,10 +1,3 @@
----
-title: "How Product Development Meets an AI Workflow: Teams and Agents That Keep Growing"
-language: en
-linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7515621144805171201/
-tags: [ai-workflow, agile, product-development, retrospective, context]
----
-
 # How Product Development Meets an AI Workflow: Teams and Agents That Keep Growing
 
 Bringing AI into the whole product development process, the team and the AI Agent can learn and grow together in every iteration.
@@ -97,3 +90,5 @@ And in the AI era, continuable context is what makes that learning compound.
 ## Adapted From
 
 - [Traditional Chinese original](zh-TW.md)
+
+Originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7515621144805171201/).

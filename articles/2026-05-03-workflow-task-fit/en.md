@@ -1,10 +1,3 @@
----
-title: "Match the Workflow to the Task: Not Every AI Job Needs an Agent Team"
-language: en
-linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7515615738964127744/
-tags: [ai-workflow, workflow-selection, vertical-slice, agent-team, claude-code]
----
-
 # Match the Workflow to the Task: Not Every AI Job Needs an Agent Team
 
 A workflow does not get better just because it has more steps.
@@ -78,3 +71,5 @@ P.S. Pair-written with Codex. Continuing to use an AI workflow to write about AI
 ## Adapted From
 
 - [Traditional Chinese original](zh-TW.md)
+
+Originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7515615738964127744/).

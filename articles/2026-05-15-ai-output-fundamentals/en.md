@@ -1,10 +1,3 @@
----
-title: "The Faster AI Produces, the More Fundamentals Matter"
-language: en
-linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7515619283025006592/
-tags: [ai-workflow, fundamentals, judgment, taste]
----
-
 # The Faster AI Produces, the More Fundamentals Matter
 
 When AI makes output much faster, what is left for humans to do?
@@ -81,3 +74,5 @@ But fundamentals decide whether that output is actually good.
 ## Adapted From
 
 - [Traditional Chinese original](zh-TW.md)
+
+Originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7515619283025006592/).

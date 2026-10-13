@@ -1,11 +1,3 @@
----
-title: "From Pipeline to Loop to Graph: How My LLM Evaluation System Evolved"
-published: 2026-08-07
-language: en
-linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7491409220853170176/
-tags: [llm, evaluation, ai-engineering]
----
-
 # From Pipeline to Loop to Graph: How My LLM Evaluation System Evolved
 
 After building AI agents for a while, I’ve come to one conclusion:
@@ -82,3 +74,5 @@ The hard part is proving that it works better.
 ![Slide 3](images/2026-08-07-llm-eval-3-4-en.webp)
 
 ![Slide 4](images/2026-08-07-llm-eval-4-4-en.webp)
+
+Originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7491409220853170176/).

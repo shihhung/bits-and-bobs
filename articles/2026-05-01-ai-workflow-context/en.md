@@ -1,11 +1,3 @@
----
-title: "AI Workflows Are Not About Automation. They Are About Context."
-published: 2026-05-15
-language: en
-linkedin: https://www.linkedin.com/feed/update/urn:li:share:7461018872431788032/
-tags: [ai-workflow, software-workflow, context]
----
-
 # AI Workflows Are Not About Automation. They Are About Context.
 
 When I first started bringing AI into my software workflow, I thought mostly about automation.
@@ -87,3 +79,5 @@ P.S. Pair-written with Codex. Using an AI workflow to write about AI workflows.
 ## Adapted From
 
 - [Traditional Chinese original](zh-TW.md)
+
+Originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7461018872431788032/).

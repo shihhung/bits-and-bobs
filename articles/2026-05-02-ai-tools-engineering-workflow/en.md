@@ -1,11 +1,3 @@
----
-title: "The Stronger AI Tools Become, the More Engineering Workflow Matters"
-published: 2026-05-23
-language: en
-linkedin: https://www.linkedin.com/feed/update/urn:li:share:7463797968609980416/
-tags: [ai-workflow, engineering-workflow, architecture]
----
-
 # The Stronger AI Tools Become, the More Engineering Workflow Matters
 
 AI makes output faster.
@@ -96,3 +88,5 @@ P.S. Pair-written with Codex. Continuing to use an AI workflow to write about AI
 ## Adapted From
 
 - [Traditional Chinese original](zh-TW.md)
+
+Originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7463797968609980416/).

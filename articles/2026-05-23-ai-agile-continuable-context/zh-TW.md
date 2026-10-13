@@ -1,11 +1,3 @@
----
-title: "產品開發如何結合 AI 工作流程：持續成長的團隊與 Agent"
-published: 2026-05-23
-language: zh-TW
-linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7463781282532200449/
-tags: [ai-workflow, agile, product-development, retrospective, context]
----
-
 # 產品開發如何結合 AI 工作流程：持續成長的團隊與 Agent
 
 延續前幾篇關於軟體開發流程、closed loop、AI 產出速度的討論：
@@ -187,3 +179,5 @@ And in the AI era, continuable context is what makes that learning compound.
 ## 資訊圖
 
 ![資訊圖：產品開發如何結合 AI 工作流程：持續成長的團隊與 Agent](images/2026-05-23-ai-agile-continuable-context.webp)
+
+原文發表於 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7463781282532200449/)。

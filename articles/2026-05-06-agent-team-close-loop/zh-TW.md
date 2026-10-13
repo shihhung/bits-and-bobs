@@ -1,11 +1,3 @@
----
-title: "我怎麼用 Agent Team 建立 close-loop 開發流程"
-published: 2026-05-06
-language: zh-TW
-linkedin: https://www.linkedin.com/feed/update/urn:li:share:7457613490527158272/
-tags: [ai-workflow, agent-team, close-loop, validation, observability, retrospective]
----
-
 # 我怎麼用 Agent Team 建立 close-loop 開發流程
 
 延續上一篇談到的：
@@ -173,3 +165,5 @@ AI workflow 的價值，不只是當下完成了什麼，而是有沒有留下�
 ## 資訊圖
 
 ![資訊圖：我怎麼用 Agent Team 建立 close-loop 開發流程](images/2026-05-06-agent-team-close-loop.webp)
+
+原文發表於 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7457613490527158272/)。
