@@ -1,11 +1,3 @@
----
-title: "AI 工具越強，工程流程反而越重要"
-published: 2026-05-02
-language: zh-TW
-linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7456171376056582144/
-tags: [ai-workflow, engineering-workflow, architecture, codex, claude, gemini]
----
-
 # AI 工具越強，工程流程反而越重要
 
 前一篇我寫到，AI 真正改變的不是自動化，而是工作流程能不能留下上下文。
@@ -119,3 +111,5 @@ P.S. Pair-writing with Codex. 繼續用 AI workflow 寫 AI workflow.
 ## 參考資料
 
 - OpenAI, [Harness 工程：在智慧體優先的世界中善用 Codex](https://openai.com/zh-Hant/index/harness-engineering/)（2026-02-11）
+
+原文發表於 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7456171376056582144/)。

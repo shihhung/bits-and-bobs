@@ -1,11 +1,3 @@
----
-title: "從 Pipeline 到 Loop，再到 Graph：我的 llm-eval 是怎麼一路長出來的"
-published: 2026-08-07
-language: zh-TW
-linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7491332004660236288/
-tags: [llm, evaluation, ai-engineering, loop-engineering, graph-engineering]
----
-
 # 從 Pipeline 到 Loop，再到 Graph：我的 llm-eval 是怎麼一路長出來的
 
 最近我在研究一件有趣的事：如何更客觀地評估與驗證 LLM 的能力。
@@ -156,3 +148,5 @@ Pipeline × Loop × Graph
 ![輪播圖 3](images/2026-08-07-llm-eval-3-4.webp)
 
 ![輪播圖 4](images/2026-08-07-llm-eval-4-4.webp)
+
+原文發表於 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7491332004660236288/)。

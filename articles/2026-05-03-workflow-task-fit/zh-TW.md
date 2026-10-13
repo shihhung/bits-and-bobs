@@ -1,11 +1,3 @@
----
-title: "AI 時代，工作流程要跟任務型態匹配"
-published: 2026-05-03
-language: zh-TW
-linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7456547055604342785/
-tags: [ai-workflow, workflow-selection, vertical-slice, agent-team, claude-code]
----
-
 # AI 時代，工作流程要跟任務型態匹配
 
 繼上一篇談到的工作流程重要性，這篇延伸分享個人實務的 AI workflow 經驗。
@@ -107,3 +99,5 @@ P.S. Pair-writing with Codex. 繼續用 AI workflow 寫 AI workflow.
 ## 資訊圖
 
 ![資訊圖：AI 時代，工作流程要跟任務型態匹配](images/2026-05-03-workflow-task-fit.webp)
+
+原文發表於 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7456547055604342785/)。

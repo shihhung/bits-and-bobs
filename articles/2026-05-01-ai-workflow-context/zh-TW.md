@@ -1,11 +1,3 @@
----
-title: "AI 真正改變的不是自動化，而是工作流程留下的上下文"
-published: 2026-05-01
-language: zh-TW
-linkedin: https://www.linkedin.com/feed/update/urn:li:share:7455977465509978112/
-tags: [ai-workflow, software-workflow, context]
----
-
 # AI 真正改變的不是自動化，而是工作流程留下的上下文
 
 我最近開始想把一些軟體工作流程和管理方法整理成系列筆記。
@@ -103,3 +95,5 @@ P.S. Pair-writing with Codex. 用 AI workflow 寫 AI workflow.
 ## 資訊圖
 
 ![資訊圖：AI 真正改變的不是自動化，而是工作流程留下的上下文](images/2026-05-01-ai-workflow-context.webp)
+
+原文發表於 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7455977465509978112/)。
