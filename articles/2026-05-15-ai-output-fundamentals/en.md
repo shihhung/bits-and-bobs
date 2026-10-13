@@ -1,7 +1,7 @@
 ---
 title: "The Faster AI Produces, the More Fundamentals Matter"
 language: en
-status: unpublished
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7515619283025006592/
 tags: [ai-workflow, fundamentals, judgment, taste]
 ---
 
