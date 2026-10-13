@@ -183,6 +183,10 @@ It is about faster learning.
 
 And in the AI era, continuable context is what makes that learning compound.
 
+## Infographic
+
+![Infographic: How Product Development Meets an AI Workflow: Teams and Agents That Keep Growing](images/2026-05-23-en-ai-agile-continuable-context.webp)
+
 ## Adapted From
 
 - [Traditional Chinese original](zh-TW.md)
