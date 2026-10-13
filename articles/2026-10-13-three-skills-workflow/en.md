@@ -53,3 +53,5 @@ Skills on GitHub: [bits-and-bobs / ai / skills](https://github.com/shihhung/bits
 ## Infographic
 
 ![Connecting an AI Workflow into a Loop with Four Skills](images/2026-10-13-en-three-skills-workflow.webp)
+
+Originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7515678178590334977/).

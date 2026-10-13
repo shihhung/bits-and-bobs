@@ -77,3 +77,5 @@
 ## 資訊圖
 
 ![四個 skill 的工作流程：work-plan 規劃、jira-acli 開票與追蹤、handoff 交接、work-report 報告，再回到下一輪規劃](images/2026-10-13-three-skills-workflow.webp)
+
+原文發表於 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7515677731565551616/)。
