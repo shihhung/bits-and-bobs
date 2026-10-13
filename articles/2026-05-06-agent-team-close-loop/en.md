@@ -90,8 +90,4 @@ With a clear close loop, an Agent Team turns AI-assisted development from one-of
 
 ![Infographic: How I Use an Agent Team to Build a Close-Loop Development Process](images/2026-05-06-en-agent-team-close-loop.webp)
 
-## Adapted From
-
-- [Traditional Chinese original](zh-TW.md)
-
 Originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7515618682912444417/).

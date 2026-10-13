@@ -76,8 +76,4 @@ P.S. Pair-written with Codex. Using an AI workflow to write about AI workflows.
 
 ![Infographic: AI Workflows Are Not About Automation. They Are About Context.](images/2026-05-15-en-ai-workflows-context.webp)
 
-## Adapted From
-
-- [Traditional Chinese original](zh-TW.md)
-
 Originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7461018872431788032/).
