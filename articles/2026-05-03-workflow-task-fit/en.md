@@ -1,7 +1,7 @@
 ---
 title: "Match the Workflow to the Task: Not Every AI Job Needs an Agent Team"
 language: en
-status: unpublished
+linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7515615738964127744/
 tags: [ai-workflow, workflow-selection, vertical-slice, agent-team, claude-code]
 ---
 
