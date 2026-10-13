@@ -7,173 +7,80 @@ tags: [ai-workflow, agile, product-development, retrospective, context]
 
 # How Product Development Meets an AI Workflow: Teams and Agents That Keep Growing
 
-Picking up from my earlier posts on software development workflow, closed loops, and the speed of AI output:
-
-If we widen AI collaboration by one more dimension, the bigger value is in the whole product development process.
-
-In other words, the team and the AI Agent learn and grow together in every iteration.
+Bringing AI into the whole product development process, the team and the AI Agent can learn and grow together in every iteration.
 
 More precisely: can what we learned in the last round really carry over into the next one?
 
-This is very close to the heart of agile development.
+That is close to the core of agile.
 
-When people talk about agile, they first think of sprints, standups, planning, review, and retrospectives.
+We often start with sprint, standup, planning, review, and Retrospective.
 
-But those are just the form.
+But those are forms.
 
-What agile really has to deal with is this:
+The real question is:
 
-**Can we deliver a verifiable product increment in a shorter cycle, learn from the feedback, and do better in the next round?**
+**Can we deliver verifiable product increments in shorter cycles, learn from feedback, and make the next iteration better?**
 
-From a product development angle, an iteration should not start from a ticket. It should start from the product context.
+An iteration should start with product context, before it starts with a ticket.
 
-What market are we facing?  
-What is the customer's real problem right now?  
-Which product hypothesis are we testing this round?  
-Which constraints and trade-offs already exist?  
-What result would show this direction is worth continuing?
+What customer problem are we solving?  
+Which product hypothesis are we testing?
 
-Only then do we move on to breaking down requirements, sprint planning, engineering design, implementation, testing, demo, and release.
+Existing constraints and tradeoffs belong there too.
 
-At the end, review and retrospective pull together the feedback from this round.
+Then come planning, design, implementation, testing, demo, and release.
 
-There are several kinds of feedback here.
+The feedback comes in several kinds:
 
-The first is product feedback.
+Product: Did the feature solve the problem? Does the hypothesis still hold?
 
-Did this feature solve the user's problem?  
-Did the original product hypothesis hold?  
-How did customers react to the demo?  
-Does the data show this direction works?  
-Next round: go deeper, adjust, or drop it?
+Engineering: Did tests cover the real risks? Were architectural boundaries preserved?
 
-The second is engineering feedback.
+Process: Where did collaboration break down? Did review catch misunderstandings too late?
 
-Was the requirement breakdown clear enough this time?  
-Did the technical approach carry unnecessary complexity?  
-Did the test strategy cover the real risks?  
-Were the architectural boundaries broken?  
-Which decisions should be recorded earlier next time?
+AI collaboration: Where did missing context lead to a wrong judgment? Which lessons should go back into the knowledge base or workflow?
 
-The third is process feedback.
+This is why I think Retrospective is underestimated.
 
-Did planning jump into implementation details too early?  
-Did review find a gap in requirement understanding too late?  
-Was the observability of QA and verification data enough to support a judgment?  
-Where did team collaboration break down?  
-How should the process change next round?
+Its output is context.
 
-In the era of AI collaboration, there is one more kind: AI collaboration feedback.
+Meeting notes and keep / problem / try lists only matter if the next round reads them, uses them, and acts differently.
 
-Where did AI really help?  
-Where did it make wrong calls because context was missing?  
-Which kind of spec helps the agent most?  
-Which verification steps cannot be left to AI to judge?  
-Which lessons learned should be written back to the knowledge base, architecture decision records, or workflow docs?
+**The core of agile product development is turning each iteration’s learning into usable context for the next one through Retrospective.**
 
-This is also where I think retrospectives are underrated.
+That learning needs to reach the PRD, Jira, architecture decisions, knowledge base, or workflow.
 
-What a retrospective produces is, at its core, context.
+Otherwise, the next sprint can repeat the same mistakes.
 
-It is not just meeting notes.
+AI is good at executing.
 
-And it is not just a keep / problem / try list.
+It is also good at executing in the wrong direction.
 
-A retrospective that is really worth it turns this round's product learning, engineering learning, and process learning into context that the next round will read, use, and act on.
+If it cannot read why the team abandoned a solution or why customer feedback changed priorities, it is missing context that should guide its work.
 
-If nobody looks at it in the next planning after the retro is done.
-
-If the lessons learned never make it into the PRD, Jira, architecture decision records, the knowledge base, or the workflow.
-
-If the same vague requirements, test gaps, architecture misjudgments, and AI misuse show up again next sprint.
-
-Then it is just an empty ritual.
-
-This is why I think:
-
-**The core of agile product development is not the sprint itself. It is using the retrospective to turn each round's learning into context the next round can use.**
-
-Because AI is good at executing, and just as good at executing in the wrong direction.
-
-If it does not know what the team has learned in the past.
-
-If it does not know why we dropped an approach last sprint.
-
-If it does not know that a piece of customer feedback actually changed the product priorities.
-
-If it does not know that an API contract was designed this way for cross-platform consistency.
-
-If it does not know that a test checklist item was added because of an earlier regression.
-
-Unless all of that is organized into context it can read.
-
-So the point of AI-assisted Agile is not to have AI open tickets, write user stories, or produce sprint reports faster.
-
-You can do all of that, but it is not the core.
-
-What matters more:
-
-**Does the learning from each round of product development get turned into context that both the team and the AI Agent can carry into the next round?**
-
-If yes, AI is more than a coding assistant.
-
-It can help read past product hypotheses, organize customer feedback, check whether a requirement fits earlier decisions, warn about pitfalls we have hit before, help break down the next round's scope, and even point out verification gaps before implementation starts.
-
-But if not, AI only works from a vague prompt in the moment, and quickly produces a pile of content that looks complete but may actually mislead direction and decisions.
+Without that context, AI works from a vague prompt in the moment and quickly produces content that looks complete but may mislead direction and decisions.
 
 It may make delivery faster.
 
-But it does not necessarily make product learning faster. It may only help the team repeat the same mistakes faster.
+It does not necessarily make learning faster. It may only help the team repeat the same mistakes faster.
 
-So I now think of the product development loop in the AI era like this:
+So AI-assisted Agile is about more than opening tickets faster or generating sprint reports.
 
-Product Context  
-↓  
-Product Hypothesis  
-↓  
-Sprint Planning  
-↓  
-AI-assisted Delivery  
-↓  
-Product Increment  
-↓  
-Sprint Review  
-↓  
-Retrospective  
-↓  
-Continuable Context  
-↓  
-Next Product Hypothesis
+Can both the team and the AI Agent use what the last iteration learned?
 
-In this loop, AI does not only show up in the delivery step.
+With that context, AI can check requirements against earlier decisions, flag past pitfalls, and spot validation gaps before implementation.
 
-What AI can really amplify is the value that comes from context flowing through the whole loop.
+I now think of the loop this way:
 
-It can help organize requirements.
+Product Context → Product Hypothesis → Sprint Planning → AI-assisted Delivery → Product Increment → Sprint Review → Retrospective → Continuable Context → Next Product Hypothesis
 
-It can help implement.
+AI can help with planning, delivery, validation, and capturing lessons.
 
-It can help verify.
+What it amplifies is how context flows through the whole loop.
 
-And it can help turn the results of review and retrospective into product memory the next round can use.
+Short-cycle learning is the goal.
 
-So for me, AI actually makes the things in agile development that were always important, but often ignored, more obvious.
-
-Short-cycle delivery is not the goal.
-
-The real goal is short-cycle learning.
-
-The retrospective is not the end.
-
-It is where the next round's context begins.
-
-AI collaboration is not limited to speeding up software implementation. It extends to product planning, engineering decisions, verifying results, and process adjustments, and all of that can become knowledge that keeps growing and accumulating.
-
-That way, in the next round, not only do people know the product better. The AI Agent also understands better how this team works, how it judges quality, and how to avoid the pitfalls it has hit before.
-
-So, agile in the AI era is not about running through a sprint faster.
-
-It is about getting what each sprint learned back into the next round of product decisions faster, more clearly, and more reliably.
+Retrospective is where the next round’s context begins.
 
 In short:
 
