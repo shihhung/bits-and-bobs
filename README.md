@@ -32,3 +32,12 @@ handoff  ->  work-report   (illustrated status report)
 ```
 
 Each skill works on its own, but they were written to be used together.
+
+## License
+
+| Folder | License |
+| --- | --- |
+| `ai/`, `tools/`, `pocs/` (skills, scripts, and code) | [MIT](LICENSE) |
+| `articles/` (text and images) | [CC BY 4.0](articles/LICENSE). Share and adapt with credit to Ivan Lin. |
+
+`ai/skills/work-report/assets/starter/style.css` contains compiled Tailwind CSS, which keeps its own MIT notice at the top of the file.
