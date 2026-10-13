@@ -68,8 +68,4 @@ P.S. Pair-written with Codex. Continuing to use an AI workflow to write about AI
 
 ![Infographic: Match the Workflow to the Task: Not Every AI Job Needs an Agent Team](images/2026-05-03-en-workflow-task-fit.webp)
 
-## Adapted From
-
-- [Traditional Chinese original](zh-TW.md)
-
 Originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7515615738964127744/).

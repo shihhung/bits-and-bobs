@@ -85,8 +85,4 @@ P.S. Pair-written with Codex. Continuing to use an AI workflow to write about AI
 
 - OpenAI, [Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/) (2026-02-11)
 
-## Adapted From
-
-- [Traditional Chinese original](zh-TW.md)
-
 Originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7463797968609980416/).

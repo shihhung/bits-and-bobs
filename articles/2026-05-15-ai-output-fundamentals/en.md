@@ -71,8 +71,4 @@ But fundamentals decide whether that output is actually good.
 
 - Matt Pocock, "Software Fundamentals Matter More Than Ever" — https://youtu.be/v4F1gFy-hqg
 
-## Adapted From
-
-- [Traditional Chinese original](zh-TW.md)
-
 Originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7515619283025006592/).
