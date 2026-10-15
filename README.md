@@ -22,6 +22,7 @@ Odds and ends: tools, articles, proofs of concept, and a few AI tools and skills
 | [jira-acli](ai/skills/jira-acli/) | Skill | Operate Jira through Atlassian's CLI (acli) instead of MCP, with a markdown to ADF converter |
 | [work-plan](ai/skills/work-plan/) | Skill | Plan a piece of work with the user, record it in Jira and the handoff, then run it autonomously |
 | [Articles](articles/) | Articles | LinkedIn articles on software workflow in the age of AI (Traditional Chinese and English) |
+| [Proofs of Concept](pocs/) | PoCs | Experiment write-ups and proofs of concept |
 
 ## How the skills fit together
 
