@@ -30,25 +30,27 @@
           </div>
 
           <figure class="relative mx-auto w-full max-w-2xl lg:justify-self-end">
-            <div class="absolute -left-4 top-5 h-[89%] w-[95%] rotate-[-3deg] border border-slate-300 bg-amber-100"></div>
-            <div class="relative border border-slate-900 bg-white p-5 shadow-[18px_20px_0_#c7d2fe]">
-              <svg class="h-80 w-full md:h-96" viewBox="0 0 640 390" role="img" aria-label="Sample flow diagram: input, check, and a result still to be verified">
-                <rect width="640" height="390" fill="#fffefa" />
-                <path d="M100 112H520M100 202H520M100 292H520" stroke="#d7dce3" stroke-width="2" />
-                <rect x="77" y="76" width="162" height="70" rx="8" fill="#e0e7ff" stroke="#3730a3" stroke-width="3" />
-                <text x="158" y="107" text-anchor="middle" font-size="18" font-family="ui-monospace, Menlo, monospace" fill="#172033">Input</text><text x="158" y="130" text-anchor="middle" font-size="14" font-family="ui-monospace, Menlo, monospace" fill="#475569">Sample data</text>
-                <path d="M260 111H372" stroke="#3730a3" stroke-width="4" /><path d="M358 101L378 111 358 121" fill="none" stroke="#3730a3" stroke-width="4" />
-                <rect x="395" y="76" width="162" height="70" rx="8" fill="#ecfdf5" stroke="#047857" stroke-width="3" />
-                <text x="476" y="107" text-anchor="middle" font-size="18" font-family="ui-monospace, Menlo, monospace" fill="#172033">Confirmed</text><text x="476" y="130" text-anchor="middle" font-size="14" font-family="ui-monospace, Menlo, monospace" fill="#475569">Example result</text>
-                <rect x="77" y="167" width="480" height="70" rx="8" fill="#f8fafc" stroke="#94a3b8" stroke-width="2" />
-                <text x="104" y="192" font-size="17" font-family="ui-monospace, Menlo, monospace" fill="#172033">Evidence kept:</text><text x="104" y="217" font-size="15" font-family="ui-monospace, Menlo, monospace" fill="#475569">Original content → reproducible check result</text>
-                <rect x="77" y="257" width="480" height="70" rx="8" fill="#fff7ed" stroke="#ea580c" stroke-width="3" stroke-dasharray="8 6" />
-                <text x="104" y="282" font-size="17" font-family="ui-monospace, Menlo, monospace" fill="#9a3412">Not yet verified:</text><text x="104" y="307" font-size="15" font-family="ui-monospace, Menlo, monospace" fill="#9a3412">The next hypothesis or scope in the sample</text>
-              </svg>
+            <div class="relative">
+              <div class="absolute -left-4 top-5 h-[89%] w-[95%] rotate-[-3deg] border border-slate-300 bg-amber-100"></div>
+              <div class="relative border border-slate-900 bg-white p-5 shadow-[18px_20px_0_#c7d2fe]">
+                <svg class="h-80 w-full md:h-96" viewBox="0 0 640 390" role="img" aria-label="Sample flow diagram: input, check, and a result still to be verified">
+                  <rect width="640" height="390" fill="#fffefa" />
+                  <path d="M100 112H520M100 202H520M100 292H520" stroke="#d7dce3" stroke-width="2" />
+                  <rect x="77" y="76" width="162" height="70" rx="8" fill="#e0e7ff" stroke="#3730a3" stroke-width="3" />
+                  <text x="158" y="107" text-anchor="middle" font-size="18" font-family="ui-monospace, Menlo, monospace" fill="#172033">Input</text><text x="158" y="130" text-anchor="middle" font-size="14" font-family="ui-monospace, Menlo, monospace" fill="#475569">Sample data</text>
+                  <path d="M260 111H372" stroke="#3730a3" stroke-width="4" /><path d="M358 101L378 111 358 121" fill="none" stroke="#3730a3" stroke-width="4" />
+                  <rect x="395" y="76" width="162" height="70" rx="8" fill="#ecfdf5" stroke="#047857" stroke-width="3" />
+                  <text x="476" y="107" text-anchor="middle" font-size="18" font-family="ui-monospace, Menlo, monospace" fill="#172033">Confirmed</text><text x="476" y="130" text-anchor="middle" font-size="14" font-family="ui-monospace, Menlo, monospace" fill="#475569">Example result</text>
+                  <rect x="77" y="167" width="480" height="70" rx="8" fill="#f8fafc" stroke="#94a3b8" stroke-width="2" />
+                  <text x="104" y="192" font-size="17" font-family="ui-monospace, Menlo, monospace" fill="#172033">Evidence kept:</text><text x="104" y="217" font-size="15" font-family="ui-monospace, Menlo, monospace" fill="#475569">Original content → reproducible check result</text>
+                  <rect x="77" y="257" width="480" height="70" rx="8" fill="#fff7ed" stroke="#ea580c" stroke-width="3" stroke-dasharray="8 6" />
+                  <text x="104" y="282" font-size="17" font-family="ui-monospace, Menlo, monospace" fill="#9a3412">Not yet verified:</text><text x="104" y="307" font-size="15" font-family="ui-monospace, Menlo, monospace" fill="#9a3412">The next hypothesis or scope in the sample</text>
+                </svg>
+              </div>
+              <span class="absolute -left-3 top-5 max-w-48 border border-slate-900 bg-amber-300 px-3 py-2 text-sm font-bold shadow-[3px_3px_0_#172033] md:text-base">Confirmed part</span>
+              <span class="absolute -right-2 bottom-5 max-w-48 border border-slate-900 bg-rose-100 px-3 py-2 text-sm font-bold shadow-[3px_3px_0_#172033] md:text-base">Still to verify</span>
             </div>
-            <figcaption class="mt-4 flex flex-wrap justify-between gap-3 text-base"><b class="font-mono text-indigo-700">Sample figure</b><span class="text-slate-600">Explain how the work fits together with a picture first</span></figcaption>
-            <span class="absolute -left-3 top-5 max-w-48 border border-slate-900 bg-amber-300 px-3 py-2 text-sm font-bold shadow-[3px_3px_0_#172033] md:text-base">Confirmed part</span>
-            <span class="absolute -right-2 bottom-16 max-w-48 border border-slate-900 bg-rose-100 px-3 py-2 text-sm font-bold shadow-[3px_3px_0_#172033] md:text-base">Still to verify</span>
+            <figcaption class="mt-8 flex flex-wrap justify-between gap-3 text-base"><b class="font-mono text-indigo-700">Sample figure</b><span class="text-slate-600">Explain how the work fits together with a picture first</span></figcaption>
           </figure>
         </div>
       </section>
